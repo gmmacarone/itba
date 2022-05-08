@@ -1,0 +1,34 @@
+/*Reseteo de CSS*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: coral;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.normal{
+    font-style: normal;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: green;
+}
+
+.italica{
+    font-style: italic;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: grey;
+}
+
+.negrita{
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood;
+}
