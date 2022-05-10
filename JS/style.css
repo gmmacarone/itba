@@ -1,0 +1,17 @@
+/*REDETEO DE CSS*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: bisque;
+}
+
+.italicaNegrita{
+    font-style: italic;
+    font-weight: bold;
+    font-family: cursive;
+    background-color: cadetblue;
+}
